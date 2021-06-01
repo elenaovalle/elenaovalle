@@ -6,7 +6,7 @@
 - 🍎 I’m currently expanding on my SQL, Python skills and Statistics knowledge
 
 **You can reach me at:**
-- 🔗 [LinkedIn](www.linkedin.com/in/elena-ovalle-24573512
+- 🔗 [LinkedIn](www.linkedin.com/in/elena-ovalle-24573512)
 
 **Fun Facts**
 - 🎆 I completed a Tableau Fellowship with the Tableau Foundation & NeighborWorks in 2020
