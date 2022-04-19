@@ -1,7 +1,7 @@
 **🌊 I'm a Data Analyst/ Business Intelligence Analyst/ Tableau Desktop Specialist 📊 with 4 years experience in the field**
 
 - 👋 Hi, I’m @elenaovalle
-- 👩‍💼 I currently work at a Community HousingWorks
+- 👩‍💼 I currently work at Live Nation Entertainment
 - 👀 I’m interested in Data Analytics, Data Science, SQL, Python:pandas, Tableau, Power BI, Excel, Predictive Analytics
 - 🍎 I’m currently expanding on my SQL, Python skills and Statistics knowledge
 
